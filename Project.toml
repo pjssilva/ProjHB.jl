@@ -1,0 +1,13 @@
+name = "ProjHB"
+uuid = "73f104bb-b0e0-4945-b126-17842f6b3569"
+authors = ["Paulo J. S. Silva"]
+version = "1.0.0-DEV"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
